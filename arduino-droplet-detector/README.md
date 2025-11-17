@@ -6,7 +6,7 @@ An arduino project that detects water droplets using an LED and photoresistor pa
 This project uses a photodiode to detect changes in light caused by water droplets interrupting an LED beam. I wrote C++ firmware to collect and log sensor data, tune thresholds, and print droplet events.
 
 ## Tools and Skills
-- Raspberry Pi Pico (MicroPython)
+- Arduino (C++)
 - ADC reading, PWM, GPIO
 - Sensor calibration and thresholding
 - Real-time data logging
