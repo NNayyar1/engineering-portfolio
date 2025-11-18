@@ -20,8 +20,13 @@ This project began as an independent electronics study. I designed, breadboarded
 
 ## Images
 <a href="./pcbRender.png">
-  <img src="./pcb-render.png" width="150">
+  <img src="./pcbRender.png" width="150">
 </a>
+
+<a href="./pcbSchematic.png">
+  <img src="./pcbSchematic.png" width="150">
+</a>
+
 
 (Add schematic, PCB renders, breadboard photos, oscilloscope captures)
 
