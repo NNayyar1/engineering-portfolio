@@ -19,6 +19,7 @@ This project began as an independent electronics study. I designed, breadboarded
 - Tested output signals using oscilloscope sine-wave injection.
 
 ## Images
+![PCB Render](./pcbRender.png)
 (Add schematic, PCB renders, breadboard photos, oscilloscope captures)
 
 ## Files
