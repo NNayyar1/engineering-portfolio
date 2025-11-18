@@ -27,6 +27,10 @@ This project began as an independent electronics study. I designed, breadboarded
   <img src="./pcbSchematic.png" width="150">
 </a>
 
+<a href="./pedalGraphs.png">
+  <img src="./pedalGraphs.png" width="150">
+</a>
+
 
 (Add schematic, PCB renders, breadboard photos, oscilloscope captures)
 
