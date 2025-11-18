@@ -71,7 +71,7 @@ Football: 1
 Soccer: 0  
 
 ## Skills Demonstrated
-- Python file reading (`open`, `readlines`)
+- Python file reading (open, readlines)
 - Dictionary creation and counting
 - Validation of entries
 - Clean, organized program structure
